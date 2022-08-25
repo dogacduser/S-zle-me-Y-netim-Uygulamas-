@@ -1,2 +1,2 @@
-# S-zle-me-Y-netim-Uygulamas-
+# Sozlesme-Yonetim-Uygulamasi
 Staj için yaptığım sözleşme yönetim uygulaması
